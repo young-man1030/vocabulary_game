@@ -1,0 +1,1094 @@
+{
+  "custom_words": [],
+  "word_stats": {
+    "adapt": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 28.7,
+      "avg_speed_ms": 28.7,
+      "last_result": "pass"
+    },
+    "fundamental": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 1500.0,
+      "last_result": "timeout"
+    },
+    "persist": {
+      "attempts": 2,
+      "success": 1,
+      "consecutive_pass": 0,
+      "best_speed_ms": 1610.4,
+      "avg_speed_ms": 864.8,
+      "last_result": "fail"
+    },
+    "distribute": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 1473.8,
+      "avg_speed_ms": 1473.8,
+      "last_result": "pass"
+    },
+    "perfect": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 952.4,
+      "avg_speed_ms": 952.4,
+      "last_result": "pass"
+    },
+    "panacea": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 13.3,
+      "avg_speed_ms": 13.3,
+      "last_result": "pass"
+    },
+    "abundant": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 0.2,
+      "last_result": "fail"
+    },
+    "finalize": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 4007.0,
+      "last_result": "fail"
+    },
+    "approximate": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 4548.4,
+      "avg_speed_ms": 4548.4,
+      "last_result": "pass"
+    },
+    "promise": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 2674.1,
+      "avg_speed_ms": 2674.1,
+      "last_result": "pass"
+    },
+    "fulfillment": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 2671.6,
+      "last_result": "fail"
+    },
+    "imply": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 5243.5,
+      "avg_speed_ms": 5243.5,
+      "last_result": "pass"
+    },
+    "intrepid": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 100.0,
+      "last_result": "timeout"
+    },
+    "opinion": {
+      "attempts": 2,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 2502.3,
+      "last_result": "fail"
+    },
+    "circumstance": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 2597.2,
+      "avg_speed_ms": 2597.2,
+      "last_result": "pass"
+    },
+    "spontaneous": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 3369.6,
+      "last_result": "fail"
+    },
+    "inherent": {
+      "attempts": 2,
+      "success": 1,
+      "consecutive_pass": 0,
+      "best_speed_ms": 2531.6,
+      "avg_speed_ms": 1268.5,
+      "last_result": "fail"
+    },
+    "confuse": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 3119.7,
+      "last_result": "fail"
+    },
+    "incorporate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 3300.3,
+      "last_result": "fail"
+    },
+    "ingenious": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5000.0,
+      "last_result": "timeout"
+    },
+    "destination": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5000.0,
+      "last_result": "timeout"
+    },
+    "invent": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5000.0,
+      "last_result": "timeout"
+    },
+    "obligation": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 1578.4,
+      "last_result": "fail"
+    },
+    "receive": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 4771.9,
+      "avg_speed_ms": 4771.9,
+      "last_result": "pass"
+    },
+    "grievance": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5000.0,
+      "last_result": "timeout"
+    },
+    "immutable": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 3491.4,
+      "last_result": "fail"
+    },
+    "aspect": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 2163.0,
+      "avg_speed_ms": 2163.0,
+      "last_result": "pass"
+    },
+    "celebrate": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 2450.5,
+      "avg_speed_ms": 2450.5,
+      "last_result": "pass"
+    },
+    "prohibit": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 2644.2,
+      "avg_speed_ms": 2644.2,
+      "last_result": "pass"
+    },
+    "result": {
+      "attempts": 1,
+      "success": 1,
+      "consecutive_pass": 1,
+      "best_speed_ms": 1476.8,
+      "avg_speed_ms": 1476.8,
+      "last_result": "pass"
+    },
+    "obscure": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 3382.7,
+      "last_result": "fail"
+    },
+    "clandestine": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 1611.8,
+      "last_result": "fail"
+    },
+    "vindicate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 2016.4,
+      "last_result": "fail"
+    },
+    "epitome": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 1243.9,
+      "last_result": "fail"
+    },
+    "expedite": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 3604.4,
+      "last_result": "fail"
+    },
+    "plausible": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 3919.2,
+      "last_result": "fail"
+    },
+    "intervene": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 2556.5,
+      "last_result": "fail"
+    },
+    "intrinsic": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 2868.4,
+      "last_result": "fail"
+    },
+    "accept": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 2229.1,
+      "last_result": "fail"
+    },
+    "realize": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 3518.4,
+      "last_result": "fail"
+    },
+    "delineate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 285.3,
+      "last_result": "fail"
+    },
+    "emphasize": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 127.6,
+      "last_result": "fail"
+    },
+    "amend": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 79.2,
+      "last_result": "fail"
+    },
+    "itinerary": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 62.8,
+      "last_result": "fail"
+    },
+    "deter": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 64.1,
+      "last_result": "fail"
+    },
+    "achieve": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 72.7,
+      "last_result": "fail"
+    },
+    "dramatic": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 44.6,
+      "last_result": "fail"
+    },
+    "terminate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 16.0,
+      "last_result": "fail"
+    },
+    "method": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 36.7,
+      "last_result": "fail"
+    },
+    "mundane": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 103.2,
+      "last_result": "fail"
+    },
+    "contain": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 102.3,
+      "last_result": "fail"
+    },
+    "resilient": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 101.7,
+      "last_result": "fail"
+    },
+    "serendipity": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 112.9,
+      "last_result": "fail"
+    },
+    "arbitrary": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 91.9,
+      "last_result": "fail"
+    },
+    "assume": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 107.9,
+      "last_result": "fail"
+    },
+    "leverage": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 98.1,
+      "last_result": "fail"
+    },
+    "follow": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 76.8,
+      "last_result": "fail"
+    },
+    "pristine": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 103.9,
+      "last_result": "fail"
+    },
+    "confidential": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 96.3,
+      "last_result": "fail"
+    },
+    "formidable": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 104.1,
+      "last_result": "fail"
+    },
+    "exploit": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 21.9,
+      "last_result": "fail"
+    },
+    "cause": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 11.2,
+      "last_result": "fail"
+    },
+    "aesthetic": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 9.9,
+      "last_result": "fail"
+    },
+    "vacillate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 4.9,
+      "last_result": "fail"
+    },
+    "discrete": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 7.5,
+      "last_result": "fail"
+    },
+    "effect": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 6.0,
+      "last_result": "fail"
+    },
+    "futile": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 6.2,
+      "last_result": "fail"
+    },
+    "paradox": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 6.9,
+      "last_result": "fail"
+    },
+    "illustrate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5.8,
+      "last_result": "fail"
+    },
+    "excite": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 6.3,
+      "last_result": "fail"
+    },
+    "lucrative": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 3.6,
+      "last_result": "fail"
+    },
+    "negotiate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 10.3,
+      "last_result": "fail"
+    },
+    "support": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 9.4,
+      "last_result": "fail"
+    },
+    "permanent": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5.2,
+      "last_result": "fail"
+    },
+    "pernicious": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 17.9,
+      "last_result": "fail"
+    },
+    "retail": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 19.1,
+      "last_result": "fail"
+    },
+    "modern": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 14.8,
+      "last_result": "fail"
+    },
+    "collect": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 10.2,
+      "last_result": "fail"
+    },
+    "accurate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5.7,
+      "last_result": "fail"
+    },
+    "expect": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 6.0,
+      "last_result": "fail"
+    },
+    "admire": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 6.3,
+      "last_result": "fail"
+    },
+    "exact": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5.9,
+      "last_result": "fail"
+    },
+    "protect": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 9.6,
+      "last_result": "fail"
+    },
+    "integrate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 6.5,
+      "last_result": "fail"
+    },
+    "pragmatic": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 11.2,
+      "last_result": "fail"
+    },
+    "device": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 8.2,
+      "last_result": "fail"
+    },
+    "accumulate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 9.7,
+      "last_result": "fail"
+    },
+    "attend": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 7.8,
+      "last_result": "fail"
+    },
+    "explicit": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 7.4,
+      "last_result": "fail"
+    },
+    "layout": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 6.1,
+      "last_result": "fail"
+    },
+    "serious": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 4.7,
+      "last_result": "fail"
+    },
+    "discover": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 7.2,
+      "last_result": "fail"
+    },
+    "huge": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 4.3,
+      "last_result": "fail"
+    },
+    "determine": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 8.7,
+      "last_result": "fail"
+    },
+    "responsible": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 6.4,
+      "last_result": "fail"
+    },
+    "notice": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 4.6,
+      "last_result": "fail"
+    },
+    "contemporary": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5.7,
+      "last_result": "fail"
+    },
+    "patronize": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 4.5,
+      "last_result": "fail"
+    },
+    "abstract": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 4.8,
+      "last_result": "fail"
+    },
+    "empirical": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 4.6,
+      "last_result": "fail"
+    },
+    "construct": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5.8,
+      "last_result": "fail"
+    },
+    "virulent": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 3.9,
+      "last_result": "fail"
+    },
+    "substantiate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 7.0,
+      "last_result": "fail"
+    },
+    "reimburse": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 6.0,
+      "last_result": "fail"
+    },
+    "dominate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 3.1,
+      "last_result": "fail"
+    },
+    "calm": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 7.8,
+      "last_result": "fail"
+    },
+    "compatible": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 4.2,
+      "last_result": "fail"
+    },
+    "obsolete": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 14.3,
+      "last_result": "fail"
+    },
+    "dividend": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 9.4,
+      "last_result": "fail"
+    },
+    "discuss": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 11.0,
+      "last_result": "fail"
+    },
+    "definite": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 6.6,
+      "last_result": "fail"
+    },
+    "conceive": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 7.6,
+      "last_result": "fail"
+    },
+    "disseminate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 8.1,
+      "last_result": "fail"
+    },
+    "expire": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 10.9,
+      "last_result": "fail"
+    },
+    "brochure": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 11.1,
+      "last_result": "fail"
+    },
+    "subsequent": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 14.4,
+      "last_result": "fail"
+    },
+    "ameliorate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 6.5,
+      "last_result": "fail"
+    },
+    "comply": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 11.3,
+      "last_result": "fail"
+    },
+    "eliminate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 11.6,
+      "last_result": "fail"
+    },
+    "benefit": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 14.1,
+      "last_result": "fail"
+    },
+    "prioritize": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 7.8,
+      "last_result": "fail"
+    },
+    "unequivocal": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 7.4,
+      "last_result": "fail"
+    },
+    "duplicate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 9.6,
+      "last_result": "fail"
+    },
+    "innocent": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 7.8,
+      "last_result": "fail"
+    },
+    "disrupt": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 8.8,
+      "last_result": "fail"
+    },
+    "balance": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5.8,
+      "last_result": "fail"
+    },
+    "manage": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 16.8,
+      "last_result": "fail"
+    },
+    "despair": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 16.8,
+      "last_result": "fail"
+    },
+    "advocate": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 7.2,
+      "last_result": "fail"
+    },
+    "exist": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 9.7,
+      "last_result": "fail"
+    },
+    "idiosyncratic": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5.0,
+      "last_result": "fail"
+    },
+    "respect": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 4.4,
+      "last_result": "fail"
+    },
+    "consistent": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 18.3,
+      "last_result": "fail"
+    },
+    "express": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 8.4,
+      "last_result": "fail"
+    },
+    "exchange": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 9.1,
+      "last_result": "fail"
+    },
+    "compare": {
+      "attempts": 1,
+      "success": 0,
+      "consecutive_pass": 0,
+      "best_speed_ms": 99999,
+      "avg_speed_ms": 5000.0,
+      "last_result": "timeout"
+    }
+  },
+  "history_log": []
+}
